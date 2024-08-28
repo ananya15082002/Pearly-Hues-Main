@@ -5,12 +5,12 @@
   flex-shrink: 0;
 }
 .necklace-child {
-  width: 100px;
-  height: 100px;
+  width: 6.25rem;
+  height: 6.25rem;
   display: none;
 }
 .necklace-item {
-  margin-top: -282px;
+  margin-top: -17.625rem;
   align-self: stretch;
   max-width: 100%;
   max-height: 100%;
@@ -20,8 +20,8 @@
   font-size: var(--font-size-13xl);
 }
 .necklace-treasure-the-container {
-  width: 1004px;
-  height: 112px;
+  width: 62.75rem;
+  height: 7rem;
   position: relative;
   line-height: 140%;
   font-family: var(--font-adamina);
@@ -56,7 +56,7 @@
   line-height: 140%;
   font-weight: 600;
   display: inline-block;
-  min-width: 22px;
+  min-width: 1.375rem;
   white-space: nowrap;
 }
 .text-strong {
@@ -89,7 +89,7 @@
   gap: var(--space-200);
 }
 .product-info-card {
-  height: 347px;
+  height: 21.688rem;
   box-shadow: 10px 12px 7px rgba(0, 0, 0, 0.25);
   border-radius: var(--radius-200);
   background-color: var(--background-default-default);
@@ -97,7 +97,7 @@
   box-sizing: border-box;
   padding: var(--space-400) var(--padding-mini);
   gap: var(--space-400);
-  min-width: 240px;
+  min-width: 15rem;
   cursor: pointer;
 }
 .icon,
@@ -107,16 +107,16 @@
   z-index: 1;
 }
 .icon {
-  width: 24px;
-  height: 48px;
-  right: 13px;
-  bottom: 20px;
+  width: 1.5rem;
+  height: 3rem;
+  right: 0.813rem;
+  bottom: 1.25rem;
 }
 .space-dividers-icon {
-  width: 209px;
-  height: 247px;
-  top: 16px;
-  right: 15px;
+  width: 13.063rem;
+  height: 15.438rem;
+  top: 1rem;
+  right: 0.938rem;
   object-fit: cover;
 }
 .product-info-card1,
@@ -129,12 +129,12 @@
 .small-card-row {
   flex: 1;
   position: relative;
-  min-width: 235px;
-  max-width: 240px;
+  min-width: 14.688rem;
+  max-width: 15rem;
 }
 .product-info-card1 {
   align-self: stretch;
-  height: 347px;
+  height: 21.688rem;
   box-shadow: 10px 12px 7px rgba(0, 0, 0, 0.25);
   border-radius: var(--radius-200);
   background-color: var(--background-default-default);
@@ -142,13 +142,13 @@
   box-sizing: border-box;
   padding: var(--space-400) var(--padding-mini);
   gap: var(--space-400);
-  min-width: 240px;
+  min-width: 15rem;
 }
 .icon1 {
-  width: 24px;
-  height: 48px;
-  right: 16px;
-  bottom: 20px;
+  width: 1.5rem;
+  height: 3rem;
+  right: 1rem;
+  bottom: 1.25rem;
 }
 .icon1,
 .icon2,
@@ -158,23 +158,23 @@
   z-index: 1;
 }
 .icon2 {
-  width: 208px;
-  height: 245px;
-  top: 16px;
+  width: 13rem;
+  height: 15.313rem;
+  top: 1rem;
   left: calc(50% - 104px);
   object-fit: cover;
 }
 .icon3 {
-  width: 24px;
-  height: 48px;
-  right: 15px;
-  bottom: 18px;
+  width: 1.5rem;
+  height: 3rem;
+  right: 0.938rem;
+  bottom: 1.125rem;
 }
 .icon4 {
-  width: 207px;
-  height: 250px;
-  top: 16px;
-  left: 16px;
+  width: 12.938rem;
+  height: 15.625rem;
+  top: 1rem;
+  left: 1rem;
   object-fit: cover;
 }
 .icon4,
@@ -185,16 +185,16 @@
   z-index: 1;
 }
 .icon5 {
-  width: 24px;
-  height: 48px;
-  right: 17px;
-  bottom: 18px;
+  width: 1.5rem;
+  height: 3rem;
+  right: 1.063rem;
+  bottom: 1.125rem;
 }
 .icon6 {
-  width: 209px;
-  height: 245px;
-  top: 16px;
-  left: 15px;
+  width: 13.063rem;
+  height: 15.313rem;
+  top: 1rem;
+  left: 0.938rem;
   object-fit: cover;
 }
 .product-info-card4 {
@@ -214,15 +214,15 @@
   justify-content: flex-start;
   padding: var(--space-400) var(--padding-mini);
   gap: var(--space-400);
-  min-width: 240px;
+  min-width: 15rem;
   cursor: pointer;
 }
 .icon7 {
   position: absolute;
-  top: 281px;
-  left: 200px;
-  width: 24px;
-  height: 48px;
+  top: 17.563rem;
+  left: 12.5rem;
+  width: 1.5rem;
+  height: 3rem;
   z-index: 1;
 }
 .info-card-parent {
@@ -237,31 +237,31 @@
 }
 .icon8 {
   position: absolute;
-  top: 281px;
-  left: 201px;
-  width: 24px;
-  height: 48px;
+  top: 17.563rem;
+  left: 12.563rem;
+  width: 1.5rem;
+  height: 3rem;
   z-index: 1;
 }
 .product-info-card-parent {
-  height: 347px;
+  height: 21.688rem;
   flex: 1;
   position: relative;
-  min-width: 235px;
-  max-width: 240px;
+  min-width: 14.688rem;
+  max-width: 15rem;
 }
 .icon10,
 .icon9 {
   position: absolute;
-  top: 281px;
-  left: 198px;
-  width: 24px;
-  height: 48px;
+  top: 17.563rem;
+  left: 12.375rem;
+  width: 1.5rem;
+  height: 3rem;
   z-index: 1;
 }
 .icon10 {
-  top: 284px;
-  left: 201px;
+  top: 17.75rem;
+  left: 12.563rem;
 }
 .product-info-card8 {
   position: absolute;
@@ -272,30 +272,30 @@
   background-color: var(--background-default-default);
   border: 1px solid var(--border-default-default);
   box-sizing: border-box;
-  width: 240px;
-  height: 347px;
+  width: 15rem;
+  height: 21.688rem;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
   padding: var(--space-400) var(--padding-mini);
   gap: var(--space-400);
-  min-width: 240px;
+  min-width: 15rem;
   cursor: pointer;
 }
 .small-card-row2 {
-  height: 347px;
+  height: 21.688rem;
   flex: 1;
   position: relative;
-  min-width: 240px;
-  max-width: 245px;
+  min-width: 15rem;
+  max-width: 15.313rem;
 }
 .icon12 {
   position: absolute;
-  top: 279px;
-  left: 197px;
-  width: 24px;
-  height: 48px;
+  top: 17.438rem;
+  left: 12.313rem;
+  width: 1.5rem;
+  height: 3rem;
   z-index: 1;
 }
 .frame-parent {
@@ -306,8 +306,8 @@
   justify-content: center;
   flex-wrap: wrap;
   align-content: flex-start;
-  padding: 0 2px 0 0;
-  gap: 19px;
+  padding: 0 0.125rem 0 0;
+  gap: 1.187rem;
 }
 .product-content,
 .product-content-wrapper {
@@ -319,13 +319,13 @@
   flex: 1;
   flex-direction: column;
   justify-content: flex-start;
-  gap: 28px;
+  gap: 1.75rem;
 }
 .product-content-wrapper {
-  width: 1381px;
+  width: 86.313rem;
   flex-direction: row;
   justify-content: flex-end;
-  padding: 0 var(--padding-30xl) 46px;
+  padding: 0 var(--padding-30xl) 2.875rem;
   box-sizing: border-box;
   flex-shrink: 0;
   text-align: left;
@@ -335,18 +335,18 @@
 }
 .frame-child {
   width: 100%;
-  height: 44px;
+  height: 2.75rem;
   position: absolute;
   margin: 0 !important;
   right: 0;
-  bottom: 1px;
+  bottom: 0.063rem;
   left: 0;
   border-radius: 50px;
   background-color: #e5f5f1;
 }
 .shop-more-collections {
   margin: 0;
-  width: 1130px;
+  width: 70.625rem;
   position: relative;
   font-size: inherit;
   line-height: 140%;
@@ -367,7 +367,7 @@
   flex-direction: column;
   align-items: flex-end;
   justify-content: flex-start;
-  padding: 0 35px;
+  padding: 0 2.187rem;
   position: relative;
 }
 .bracelets-container {
@@ -375,7 +375,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 0 1px 0 0;
+  padding: 0 0.062rem 0 0;
 }
 .frame-item,
 .icon13 {
@@ -394,8 +394,8 @@
   z-index: 1;
 }
 .ellipse-parent {
-  height: 329px;
-  width: 343px;
+  height: 20.563rem;
+  width: 21.438rem;
   position: relative;
   max-width: 100%;
 }
@@ -411,8 +411,8 @@
   line-height: 140%;
 }
 .earrings {
-  width: 272px;
-  height: 50px;
+  width: 17rem;
+  height: 3.125rem;
   display: inline-block;
   flex-shrink: 0;
   cursor: pointer;
@@ -443,7 +443,7 @@
 }
 .bracelets-and-rings-container {
   align-self: stretch;
-  height: 49px;
+  height: 3.063rem;
   display: inline-block;
   flex-shrink: 0;
   cursor: pointer;
@@ -465,7 +465,7 @@
   font-size: var(--font-size-xl);
 }
 .bracelets-parent {
-  width: 272px;
+  width: 17rem;
   flex-direction: column;
 }
 .earrings-container,
@@ -478,19 +478,19 @@
 .earrings-container {
   align-self: stretch;
   align-items: flex-end;
-  gap: 52px;
+  gap: 3.25rem;
 }
 .earrings-container-wrapper {
   flex: 1;
   align-items: flex-start;
   padding: var(--padding-30xl) var(--padding-8xl) 0 0;
   box-sizing: border-box;
-  min-width: 358px;
+  min-width: 22.375rem;
 }
 .icon14 {
   position: absolute;
   top: 0;
-  left: 1px;
+  left: 0.063rem;
   border-radius: var(--br-141xl);
   width: 100%;
   height: 100%;
@@ -498,8 +498,8 @@
   z-index: 1;
 }
 .ellipse-group {
-  height: 329px;
-  width: 344px;
+  height: 20.563rem;
+  width: 21.5rem;
   position: relative;
   max-width: 100%;
 }
@@ -511,7 +511,7 @@
   justify-content: center;
   flex-wrap: wrap;
   align-content: flex-start;
-  gap: 10px;
+  gap: 0.625rem;
   max-width: 100%;
   font-size: var(--font-size-11xl);
 }
@@ -521,21 +521,21 @@
   flex-direction: column;
   align-items: flex-end;
   justify-content: flex-start;
-  gap: 86px;
+  gap: 5.375rem;
   max-width: 100%;
 }
 .product-cards-wrapper {
-  width: 1399px;
+  width: 87.438rem;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 0 67px 130px;
+  padding: 0 4.187rem 8.125rem;
   box-sizing: border-box;
   max-width: 100%;
   flex-shrink: 0;
   text-align: center;
-  font-size: 35px;
+  font-size: 2.188rem;
   color: var(--color-black);
   font-family: var(--font-adamina);
 }
@@ -550,13 +550,13 @@
 }
 .all-copyrights-reserved {
   position: absolute;
-  top: 129.3px;
-  left: 545.8px;
+  top: 8.081rem;
+  left: 34.113rem;
   font-size: var(--font-size-xl-6);
-  line-height: 31.9px;
+  line-height: 1.994rem;
   display: inline-block;
-  width: 554.9px;
-  height: 31.9px;
+  width: 34.681rem;
+  height: 1.994rem;
   z-index: 1;
 }
 .information1 {
@@ -573,14 +573,14 @@
   position: relative;
 }
 .information {
-  height: 37.7px;
+  height: 2.356rem;
   line-height: 140%;
   display: inline-block;
   flex-shrink: 0;
   z-index: 2;
 }
 .privacy-policy {
-  line-height: 28px;
+  line-height: 1.75rem;
   z-index: 1;
 }
 .refund-policy {
@@ -603,11 +603,11 @@
 }
 .policies {
   flex-direction: column;
-  gap: 48.6px;
+  gap: 3.037rem;
   flex-shrink: 0;
 }
 .service {
-  height: 31.9px;
+  height: 1.994rem;
   flex: 1;
   position: relative;
   line-height: 140%;
@@ -624,12 +624,12 @@
 .service-wrapper {
   align-self: stretch;
   flex-direction: row;
-  padding: 0 71px 0 var(--padding-49xl);
+  padding: 0 4.437rem 0 var(--padding-49xl);
 }
 .policies-parent {
   flex: 1;
   flex-direction: column;
-  gap: 14.3px;
+  gap: 0.893rem;
 }
 .information-parent-inner {
   align-self: stretch;
@@ -642,27 +642,27 @@
 }
 .information-parent {
   position: absolute;
-  top: 45.2px;
-  left: 1084.6px;
-  width: 248.9px;
+  top: 2.825rem;
+  left: 67.788rem;
+  width: 15.556rem;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
   justify-content: flex-start;
-  gap: 28.9px;
+  gap: 1.806rem;
 }
 .instagram-icon {
-  height: 35.3px;
-  width: 40px;
+  height: 2.206rem;
+  width: 2.5rem;
   position: relative;
   overflow: hidden;
   flex-shrink: 0;
   z-index: 2;
 }
 .follow-us {
-  width: 128px;
+  width: 8rem;
   position: relative;
-  line-height: 32px;
+  line-height: 2rem;
   font-weight: 600;
   white-space: pre-wrap;
   display: inline-block;
@@ -670,12 +670,12 @@
 }
 .facebook-icon,
 .linkedin-icon {
-  height: 35.3px;
-  width: 40px;
+  height: 2.206rem;
+  width: 2.5rem;
   position: relative;
   overflow: hidden;
   flex-shrink: 0;
-  min-height: 35px;
+  min-height: 2.188rem;
   z-index: 2;
 }
 .linkedin-icon {
@@ -706,10 +706,10 @@
   flex: 1;
   flex-direction: column;
   align-items: flex-start;
-  gap: 19.2px;
+  gap: 1.2rem;
 }
 .socials {
-  width: 229px;
+  width: 14.313rem;
   flex-direction: row;
   align-items: flex-end;
   gap: var(--gap-11xs);
@@ -721,7 +721,7 @@
 }
 .contact-us-pearlyhuesgmailco-container {
   align-self: stretch;
-  height: 261px;
+  height: 16.313rem;
   position: relative;
   line-height: 140%;
   display: inline-block;
@@ -738,17 +738,17 @@
 .contact-parent {
   flex: 1;
   flex-direction: column;
-  padding: 22.8px 0 0;
+  padding: 1.425rem 0 0;
   box-sizing: border-box;
-  min-width: 246px;
-  margin-left: -23.2px;
+  min-width: 15.375rem;
+  margin-left: -1.45rem;
   font-size: var(--font-size-lgi-8);
 }
 .socials-parent {
   position: absolute;
-  top: 21.2px;
-  left: 56.2px;
-  width: 583.8px;
+  top: 1.325rem;
+  left: 3.513rem;
+  width: 36.488rem;
   flex-direction: row;
   flex-wrap: wrap;
   align-content: flex-start;
@@ -756,7 +756,7 @@
 }
 .rectangle-group {
   align-self: stretch;
-  height: 378px;
+  height: 23.625rem;
   position: relative;
   background-color: var(--background-brand-default);
   max-width: 100%;
@@ -768,7 +768,7 @@
 }
 .necklace {
   width: 100%;
-  height: 2349px;
+  height: 146.813rem;
   position: relative;
   background-color: var(--color-peachpuff);
   overflow: hidden;
@@ -776,9 +776,9 @@
   flex-direction: column;
   align-items: flex-end;
   justify-content: flex-start;
-  padding: 281px 0 0;
+  padding: 17.562rem 0 0;
   box-sizing: border-box;
-  gap: 94px;
+  gap: 5.875rem;
   line-height: normal;
   letter-spacing: normal;
 }
@@ -799,21 +799,21 @@
 }
 @media screen and (max-width: 1050px) {
   .necklace-treasure-the-container {
-    font-size: 26px;
-    line-height: 56px;
+    font-size: 1.625rem;
+    line-height: 3.5rem;
   }
   .product-content-wrapper {
-    padding-bottom: 30px;
+    padding-bottom: 1.875rem;
     box-sizing: border-box;
   }
   .shop-more-collections {
-    font-size: 28px;
-    line-height: 39px;
+    font-size: 1.75rem;
+    line-height: 2.438rem;
   }
 }
 @media screen and (max-width: 750px) {
   .earrings-container {
-    gap: 26px;
+    gap: 1.625rem;
   }
   .earrings-container-wrapper {
     min-width: 100%;
@@ -822,7 +822,7 @@
     gap: var(--gap-24xl);
   }
   .product-cards-wrapper {
-    padding-bottom: 84px;
+    padding-bottom: 5.25rem;
     box-sizing: border-box;
   }
   .rectangle-group {
@@ -830,43 +830,43 @@
     min-height: 378;
   }
   .necklace {
-    gap: 47px;
+    gap: 2.938rem;
   }
 }
 @media screen and (max-width: 450px) {
   .necklace-treasure-the-container {
     font-size: var(--font-size-lgi);
-    line-height: 42px;
+    line-height: 2.625rem;
   }
   .product-content-wrapper {
     padding-bottom: var(--padding-xl);
     box-sizing: border-box;
   }
   .shop-more-collections {
-    font-size: 21px;
-    line-height: 29px;
+    font-size: 1.313rem;
+    line-height: 1.813rem;
   }
   .earrings {
     font-size: var(--font-size-lgi);
-    line-height: 34px;
+    line-height: 2.125rem;
   }
   .bold-statements-for,
   .to-stay-in {
     font-size: var(--body-strong-size);
-    line-height: 22px;
+    line-height: 1.375rem;
   }
   .product-cards {
-    gap: var(--gap-2xl);
+    gap: 1.313rem;
   }
   .all-copyrights-reserved {
     font-size: var(--body-strong-size);
-    line-height: 23px;
+    line-height: 1.438rem;
   }
   .contact-us-pearlyhuesgmailco-container,
   .follow-us,
   .information {
     font-size: var(--font-size-lg);
-    line-height: 25px;
+    line-height: 1.563rem;
   }
   .contact-parent {
     margin-left: 0;
