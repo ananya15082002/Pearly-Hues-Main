@@ -1,0 +1,1181 @@
+.bracelet-and-rings-child {
+  margin-top: -17.375rem;
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  flex-shrink: 0;
+}
+.bracelets-and-rings2 {
+  margin: 0;
+}
+.to-stay-in2 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.bracelets-and-rings-container2 {
+  width: 52.688rem;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  max-width: 100%;
+}
+.image-icon64 {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.text124 {
+  flex: 1;
+  position: relative;
+  line-height: 140%;
+}
+.text123 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text-strong113 {
+  position: relative;
+  line-height: 140%;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 1.375rem;
+  white-space: nowrap;
+}
+.text-strong112 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text-small113 {
+  position: relative;
+  line-height: 140%;
+}
+.body64,
+.product-info-card55,
+.text-small112 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text-small112 {
+  display: none;
+  flex-direction: row;
+  font-size: var(--body-small-size);
+  color: var(--text-default-secondary);
+}
+.body64,
+.product-info-card55 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-200);
+}
+.product-info-card55 {
+  height: 21.688rem;
+  box-shadow: 10px 12px 7px rgba(0, 0, 0, 0.25);
+  border-radius: var(--radius-200);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--border-default-default);
+  box-sizing: border-box;
+  padding: var(--space-400) var(--padding-mini);
+  gap: var(--space-400);
+  min-width: 15rem;
+}
+.icon66 {
+  width: 1.5rem;
+  height: 3rem;
+  position: absolute;
+  margin: 0 !important;
+  right: 1.25rem;
+  bottom: 1.063rem;
+  z-index: 1;
+}
+.product-info-card56,
+.shop-more-button {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.shop-more-button {
+  flex: 1;
+  position: relative;
+  min-width: 14.688rem;
+  max-width: 15rem;
+}
+.product-info-card56 {
+  align-self: stretch;
+  height: 21.688rem;
+  box-shadow: 10px 12px 7px rgba(0, 0, 0, 0.25);
+  border-radius: var(--radius-200);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--border-default-default);
+  box-sizing: border-box;
+  padding: var(--space-400) var(--padding-mini);
+  gap: var(--space-400);
+  min-width: 15rem;
+  cursor: pointer;
+}
+.icon68,
+.icon70 {
+  width: 1.5rem;
+  height: 3rem;
+}
+.icon68 {
+  position: absolute;
+  margin: 0 !important;
+  right: 1.188rem;
+  bottom: 1.063rem;
+  z-index: 1;
+}
+.icon70 {
+  right: 1rem;
+  bottom: 1.25rem;
+}
+.icon70,
+.icon72,
+.icon73,
+.icon75 {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 1;
+}
+.icon72 {
+  width: 1.5rem;
+  height: 3rem;
+  right: 1.063rem;
+  bottom: 1.25rem;
+}
+.icon73,
+.icon75 {
+  height: 15.438rem;
+  top: 1rem;
+  object-fit: cover;
+}
+.icon73 {
+  width: 13.063rem;
+  left: 0.938rem;
+}
+.icon75 {
+  width: 12.688rem;
+  right: 1.125rem;
+}
+.shop-more-button-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: var(--gap-xl);
+}
+.icon76,
+.icon77 {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 1;
+}
+.icon76 {
+  width: 1.5rem;
+  height: 3rem;
+  right: 1.25rem;
+  bottom: 1rem;
+}
+.icon77 {
+  width: 13rem;
+  height: 15.813rem;
+  top: 1rem;
+  left: calc(50% - 104px);
+  object-fit: cover;
+}
+.icon78 {
+  width: 1.5rem;
+  height: 3rem;
+  right: 1.063rem;
+  bottom: 1rem;
+}
+.icon78,
+.icon79,
+.icon80 {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 1;
+}
+.icon79 {
+  width: 13rem;
+  height: 15.625rem;
+  top: 1rem;
+  left: calc(50% - 104px);
+  object-fit: cover;
+}
+.icon80 {
+  width: 1.5rem;
+  height: 3rem;
+  right: 1rem;
+  bottom: 1rem;
+}
+.icon81 {
+  width: 13.125rem;
+  height: 15.438rem;
+  top: 1rem;
+  left: 0.875rem;
+  object-fit: cover;
+}
+.icon81,
+.icon82,
+.icon83 {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 1;
+}
+.icon82 {
+  width: 1.5rem;
+  height: 3rem;
+  right: 1.313rem;
+  bottom: 0.938rem;
+}
+.icon83 {
+  width: 13.031rem;
+  height: 15.625rem;
+  top: 1rem;
+  right: 1.281rem;
+  object-fit: cover;
+}
+.product-info-card-parent22 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  position: relative;
+  min-width: 15rem;
+  max-width: 15.313rem;
+}
+.icon84 {
+  width: 1.5rem;
+  height: 3rem;
+  position: absolute;
+  margin: 0 !important;
+  right: 1.188rem;
+  bottom: 1.125rem;
+  z-index: 1;
+}
+.frame-parent5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-lgi);
+}
+.icon87,
+.icon91 {
+  top: 1rem;
+  left: 1rem;
+}
+.icon87 {
+  width: 12.969rem;
+  height: 15.625rem;
+  position: absolute;
+  margin: 0 !important;
+  object-fit: cover;
+  z-index: 1;
+}
+.icon91 {
+  width: 12.875rem;
+  height: 15.438rem;
+}
+.icon103,
+.icon105,
+.icon91,
+.icon93 {
+  position: absolute;
+  margin: 0 !important;
+  object-fit: cover;
+  z-index: 1;
+}
+.icon93 {
+  width: 13rem;
+  height: 15.438rem;
+  top: 1.188rem;
+  left: calc(50% - 104px);
+}
+.icon103,
+.icon105 {
+  top: 1rem;
+}
+.icon103 {
+  width: 13.125rem;
+  height: 15.438rem;
+  right: 1.188rem;
+}
+.icon105 {
+  width: 13.188rem;
+  height: 15.563rem;
+  left: 0.813rem;
+}
+.product-info-card75 {
+  align-self: stretch;
+  flex: 1;
+  box-shadow: 10px 12px 7px rgba(0, 0, 0, 0.25);
+  border-radius: var(--radius-200);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--border-default-default);
+  box-sizing: border-box;
+  padding: var(--space-400) var(--padding-mini);
+  gap: var(--space-400);
+  min-width: 15rem;
+}
+.product-info-card-parent34,
+.product-info-card75,
+.product-info-card76 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.product-info-card-parent34 {
+  height: 21.688rem;
+  width: 15rem;
+  position: relative;
+}
+.product-info-card76 {
+  align-self: stretch;
+  flex: 1;
+  box-shadow: 10px 12px 7px rgba(0, 0, 0, 0.25);
+  border-radius: var(--radius-200);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--border-default-default);
+  box-sizing: border-box;
+  padding: var(--space-400) var(--padding-mini);
+  gap: var(--space-400);
+  min-width: 15rem;
+  cursor: pointer;
+}
+.icon111,
+.icon113 {
+  position: absolute;
+  margin: 0 !important;
+  top: 1rem;
+  object-fit: cover;
+  z-index: 1;
+}
+.icon111 {
+  width: 13.188rem;
+  height: 15.563rem;
+  right: 0.813rem;
+}
+.icon113 {
+  width: 13.125rem;
+  height: 15.438rem;
+  left: calc(50% - 105px);
+}
+.product-info-card79 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 10px 12px 7px rgba(0, 0, 0, 0.25);
+  border-radius: var(--radius-200);
+  background-color: var(--background-default-default);
+  border: 1px solid var(--border-default-default);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--space-400) var(--padding-mini);
+  gap: var(--space-400);
+  min-width: 15rem;
+  cursor: pointer;
+}
+.icon114 {
+  position: absolute;
+  top: 17.438rem;
+  left: 12.5rem;
+  width: 1.5rem;
+  height: 3rem;
+  z-index: 1;
+}
+.product-info-card-parent38 {
+  height: 21.688rem;
+  width: 15rem;
+  position: relative;
+}
+.b3-1-icon,
+.icon115 {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 1;
+}
+.icon115 {
+  width: 1.5rem;
+  height: 3rem;
+  right: 0.813rem;
+  bottom: 1.25rem;
+}
+.b3-1-icon {
+  width: 13rem;
+  height: 15.438rem;
+  top: 1rem;
+  left: calc(50% - 104px);
+  object-fit: cover;
+}
+.icon117,
+.icon118 {
+  width: 1.5rem;
+  height: 3rem;
+  bottom: 1.125rem;
+}
+.icon117 {
+  position: absolute;
+  margin: 0 !important;
+  right: 0.938rem;
+  z-index: 1;
+}
+.icon118 {
+  right: 1.063rem;
+}
+.b5-1-icon,
+.icon118,
+.icon119 {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 1;
+}
+.b5-1-icon {
+  width: 12.938rem;
+  height: 15.438rem;
+  top: 1rem;
+  left: 1rem;
+  object-fit: cover;
+}
+.icon119 {
+  width: 1.5rem;
+  height: 3rem;
+  right: 1rem;
+  bottom: 1.125rem;
+}
+.frame-parent8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 1.75rem 1.218rem;
+  min-height: 45.125rem;
+}
+.icon121 {
+  position: absolute;
+  margin: 0 !important;
+  right: 1.125rem;
+  bottom: 1.125rem;
+  z-index: 1;
+}
+.icon121,
+.icon122,
+.icon123 {
+  width: 1.5rem;
+  height: 3rem;
+}
+.icon122 {
+  position: absolute;
+  margin: 0 !important;
+  right: 0.938rem;
+  bottom: 0.938rem;
+  z-index: 1;
+}
+.icon123 {
+  right: 1.313rem;
+  bottom: 1.125rem;
+}
+.b10-1-icon,
+.icon123,
+.icon124 {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 1;
+}
+.b10-1-icon {
+  width: 12.938rem;
+  height: 15.438rem;
+  top: 1rem;
+  right: 1.313rem;
+  object-fit: cover;
+}
+.icon124 {
+  width: 1.5rem;
+  height: 3rem;
+  right: 1.188rem;
+  bottom: 1.25rem;
+}
+.b12-1-icon {
+  width: 13.063rem;
+  height: 15.438rem;
+  margin: 0 !important;
+  top: 1rem;
+  right: 0.938rem;
+  object-fit: cover;
+}
+.b12-1-icon,
+.b14-1-icon,
+.icon128 {
+  position: absolute;
+  z-index: 1;
+}
+.b14-1-icon {
+  width: 13.188rem;
+  height: 15.438rem;
+  margin: 0 !important;
+  top: 1rem;
+  right: 0.813rem;
+  object-fit: cover;
+}
+.icon128 {
+  top: 17.563rem;
+  left: 12.438rem;
+  width: 1.5rem;
+  height: 3rem;
+}
+.product-info-card-parent52 {
+  height: 21.688rem;
+  flex: 1;
+  position: relative;
+  min-width: 14.688rem;
+  max-width: 15rem;
+}
+.icon129 {
+  position: absolute;
+  top: 17.563rem;
+  left: 12.5rem;
+  width: 1.5rem;
+  height: 3rem;
+  z-index: 1;
+}
+.shop-collections1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.bracelets-and-rings-to-stay-in-parent,
+.frame-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  align-self: stretch;
+  gap: var(--gap-9xl);
+  font-size: var(--body-strong-size);
+  color: var(--text-default-default);
+  font-family: var(--body-small);
+}
+.bracelets-and-rings-to-stay-in-parent {
+  width: 80.188rem;
+  padding: 0 0 var(--padding-6xl);
+  box-sizing: border-box;
+  gap: var(--gap-9xs);
+  max-width: 100%;
+  text-align: left;
+}
+.button-background {
+  height: 2.75rem;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: 0.063rem;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-azure);
+}
+.shop-more-collections2 {
+  margin: 0;
+  width: 70.625rem;
+  position: relative;
+  font-size: inherit;
+  line-height: 140%;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.button-background-parent {
+  width: 79rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 3.625rem;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+  font-size: var(--font-size-16xl);
+}
+.blank-line34 {
+  margin: 0;
+  font-size: var(--body-strong-size);
+}
+.necklaces2,
+.treasure-the-moments2 {
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.necklaces2 {
+  width: 17rem;
+  cursor: pointer;
+}
+.treasure-the-moments2 {
+  width: 23.688rem;
+  z-index: 1;
+}
+.necklace-description {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-base);
+  font-size: var(--font-size-xl);
+}
+.necklace-title-wrapper,
+.necklace-title1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.necklace-title-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+}
+.blank-line35 {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.earrings4 {
+  flex: 1;
+  position: relative;
+  line-height: 140%;
+  cursor: pointer;
+}
+.earrings-title {
+  width: 19.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.bold-statements-for2 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 140%;
+  z-index: 1;
+}
+.earrings-title-parent,
+.frame-parent11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent11 {
+  position: absolute;
+  top: 1.563rem;
+  left: 20.75rem;
+  width: 38.438rem;
+  gap: 3.812rem;
+}
+.frame-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.ellipse-parent1,
+.icon130 {
+  position: absolute;
+  height: 100%;
+  left: 0;
+  z-index: 1;
+}
+.icon130 {
+  top: 0.125rem;
+  border-radius: var(--br-141xl);
+  width: 100%;
+  object-fit: cover;
+}
+.ellipse-parent1 {
+  top: 0;
+  bottom: 0;
+  width: 21.438rem;
+}
+.frame-child10,
+.icon131 {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.frame-child10 {
+  top: 0.063rem;
+  border-radius: 50%;
+}
+.icon131 {
+  top: 0;
+  border-radius: var(--br-141xl);
+  z-index: 1;
+}
+.ellipse-parent2 {
+  position: absolute;
+  height: calc(100% - 2px);
+  top: 0.125rem;
+  bottom: 0;
+  left: 59.875rem;
+  width: 21.438rem;
+}
+.navigation-links {
+  height: 20.688rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.navigation1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-base) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-11xl);
+}
+.frame-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-55xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-adamina);
+}
+.bracelet-and-rings-inner {
+  width: 88.438rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-30xl) var(--padding-13xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-child11 {
+  height: 23.625rem;
+  width: 90rem;
+  position: relative;
+  background-color: var(--background-brand-default);
+  display: none;
+  max-width: 100%;
+  z-index: 1;
+}
+.instagram-icon6 {
+  width: 2.5rem;
+  height: 2.206rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.instagram-container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3.2rem 0 0;
+}
+.follow-us8 {
+  width: 8rem;
+  position: relative;
+  line-height: 2rem;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: inline-block;
+  z-index: 2;
+}
+.facebook-icon6,
+.linkedin-icon6 {
+  height: 2.206rem;
+  width: 2.5rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 2.188rem;
+  z-index: 2;
+}
+.linkedin-icon6 {
+  z-index: 3;
+}
+.social-icons2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  gap: var(--gap-xl);
+}
+.social-icons-wrapper {
+  width: 10.375rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.587rem 0 0;
+  box-sizing: border-box;
+}
+.contact-us6 {
+  margin: 0;
+  font-size: var(--font-size-3xl-3);
+  font-weight: 600;
+}
+.contact-us-pearlyhuesgmailco-container6 {
+  margin-left: -2.388rem;
+  width: 23.625rem;
+  height: 17.125rem;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 112%;
+  z-index: 2;
+}
+.contact-info1,
+.links-container {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.contact-info1 {
+  width: 21.238rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  min-width: 21.238rem;
+}
+.links-container {
+  flex: 1;
+  flex-direction: row;
+  justify-content: center;
+  row-gap: 20px;
+}
+.social-links2 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-2xl);
+  box-sizing: border-box;
+  margin-top: -0.388rem;
+  font-size: var(--font-size-lgi-8);
+}
+.follow-us7,
+.social-bar,
+.social-links2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.follow-us7 {
+  flex: 1;
+  flex-direction: column;
+  min-width: 21.438rem;
+}
+.social-bar {
+  width: 35.55rem;
+  flex-direction: row;
+  gap: var(--gap-11xs);
+}
+.all-copyrights-reserved6 {
+  width: 34.681rem;
+  position: relative;
+  line-height: 1.994rem;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.copyright1 {
+  width: 41.375rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 6.756rem 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-left: -6.325rem;
+  font-size: var(--font-size-xl-6);
+}
+.information13 {
+  margin: 0;
+  font-weight: 600;
+}
+.blank-line38 {
+  margin: 0;
+  font-size: var(--font-size-lgi-8);
+}
+.information12,
+.privacy-policy6 {
+  align-self: stretch;
+  position: relative;
+}
+.information12 {
+  height: 2.356rem;
+  line-height: 140%;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.privacy-policy6 {
+  line-height: 1.75rem;
+  z-index: 1;
+}
+.refund-policy15,
+.service12 {
+  position: relative;
+  line-height: 140%;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.refund-policy15 {
+  align-self: stretch;
+  cursor: pointer;
+}
+.service12 {
+  height: 1.994rem;
+  flex: 1;
+  display: inline-block;
+}
+.service-container2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-46xl) 0 var(--padding-45xl);
+}
+.refund-policy-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-mini-3);
+}
+.policy-list3,
+.refund-policy-container,
+.refund-policy-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.refund-policy-container {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-7xs) 0 var(--padding-10xs);
+}
+.policy-list3 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-29xl-6);
+}
+.info-container,
+.policies2 {
+  align-self: stretch;
+  display: flex;
+}
+.policies2 {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-smi) 0 var(--padding-mid);
+  font-size: var(--font-size-lgi-8);
+}
+.info-container {
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-9xl-9);
+}
+.footer-info1 {
+  width: 15.556rem;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-5xl) 0 0;
+  margin-left: -6.325rem;
+}
+.bracelet-and-rings,
+.footer-info1,
+.rectangle-parent3 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.rectangle-parent3 {
+  align-self: stretch;
+  background-color: var(--background-brand-default);
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 1.325rem var(--padding-37xl) var(--padding-38xl);
+  row-gap: 20px;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-3xl-3);
+  color: var(--background-default-default);
+  font-family: var(--font-playfair-display);
+}
+.bracelet-and-rings {
+  width: 100%;
+  height: 277.5rem;
+  position: relative;
+  background-color: var(--color-peachpuff);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 17.312rem 0 0;
+  gap: 5.625rem;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1325px) {
+  .button-background-parent {
+    padding-left: var(--padding-10xl);
+    padding-right: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .bracelet-and-rings-inner,
+  .rectangle-parent3 {
+    padding-left: var(--padding-5xl);
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .rectangle-parent3 {
+    flex-wrap: wrap;
+    padding-left: var(--padding-9xl);
+    padding-right: var(--padding-9xl);
+  }
+}
+@media screen and (max-width: 1125px) {
+  .bracelet-and-rings {
+    height: auto;
+  }
+}
+@media screen and (max-width: 800px) {
+  .bracelets-and-rings-container2 {
+    font-size: var(--font-size-7xl);
+    line-height: 3.5rem;
+  }
+  .shop-more-collections2 {
+    font-size: var(--font-size-9xl);
+    line-height: 2.438rem;
+  }
+  .frame-section {
+    gap: var(--gap-18xl);
+  }
+  .contact-info1 {
+    flex: 1;
+    min-width: 100%;
+  }
+  .links-container {
+    flex-wrap: wrap;
+  }
+  .follow-us7 {
+    min-width: 100%;
+  }
+  .social-bar {
+    flex-wrap: wrap;
+  }
+  .bracelet-and-rings {
+    gap: var(--gap-26xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .bracelets-and-rings-container2 {
+    font-size: var(--font-size-lgi);
+    line-height: 2.625rem;
+  }
+  .shop-more-collections2 {
+    font-size: var(--font-size-2xl);
+    line-height: 1.813rem;
+  }
+  .treasure-the-moments2 {
+    font-size: var(--body-strong-size);
+    line-height: 1.375rem;
+  }
+  .earrings4 {
+    font-size: var(--font-size-lgi);
+    line-height: 2.125rem;
+  }
+  .bold-statements-for2 {
+    font-size: var(--body-strong-size);
+    line-height: 1.375rem;
+  }
+  .frame-section {
+    gap: var(--gap-lg);
+  }
+  .contact-us-pearlyhuesgmailco-container6,
+  .follow-us8 {
+    font-size: var(--font-size-lg);
+    line-height: 1.563rem;
+  }
+  .all-copyrights-reserved6 {
+    font-size: var(--body-strong-size);
+    line-height: 1.438rem;
+  }
+  .information12 {
+    font-size: var(--font-size-lg);
+    line-height: 1.563rem;
+  }
+  .rectangle-parent3 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-18xl);
+    box-sizing: border-box;
+  }
+  .bracelet-and-rings {
+    gap: var(--gap-3xl);
+  }
+}

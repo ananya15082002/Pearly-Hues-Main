@@ -306,7 +306,7 @@
 }
 .title-and-share {
   flex: 1;
-  gap: 4.625rem;
+  gap: var(--gap-55xl);
 }
 .product-title-container {
   align-self: stretch;
@@ -706,7 +706,7 @@
 }
 @media screen and (max-width: 1200px) {
   .title-and-share {
-    gap: 2.313rem;
+    gap: var(--gap-18xl);
   }
   .product-title-container {
     padding-left: var(--padding-6xl);

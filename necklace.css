@@ -342,7 +342,7 @@
   bottom: 0.063rem;
   left: 0;
   border-radius: var(--br-31xl);
-  background-color: #e5f5f1;
+  background-color: var(--color-azure);
 }
 .shop-more-collections {
   margin: 0;
@@ -813,7 +813,7 @@
 }
 @media screen and (max-width: 750px) {
   .earrings-container {
-    gap: 1.625rem;
+    gap: var(--gap-7xl);
   }
   .earrings-container-wrapper {
     min-width: 100%;
