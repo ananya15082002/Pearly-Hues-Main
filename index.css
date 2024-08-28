@@ -878,7 +878,7 @@
 .new-arrivals-content {
   flex: 1;
   flex-direction: column;
-  gap: 0.937rem;
+  gap: var(--gap-mini);
 }
 .hero-content-wrapper,
 .new-arrivals-content,
@@ -891,7 +891,7 @@
 .new-arrivals-content-wrapper {
   align-self: stretch;
   flex-direction: row;
-  padding: 0 2.375rem 0 var(--padding-15xl);
+  padding: 0 var(--padding-19xl) 0 var(--padding-15xl);
   box-sizing: border-box;
   font-size: var(--font-size-31xl);
   color: var(--color-black);
@@ -899,7 +899,7 @@
 .hero-content-wrapper {
   flex: 1;
   flex-direction: column;
-  gap: 3.75rem;
+  gap: var(--gap-41xl);
 }
 .hero-content-wrapper-wrapper,
 .hero-image {
@@ -1263,7 +1263,7 @@
 .service-container {
   align-self: stretch;
   flex-direction: row;
-  padding: 0 4.062rem 0 var(--padding-45xl);
+  padding: 0 var(--padding-46xl) 0 var(--padding-45xl);
 }
 .refund-policy-link1 {
   flex: 1;
@@ -1321,7 +1321,7 @@
   width: 90rem;
   background-color: var(--background-brand-default);
   flex-direction: row;
-  padding: 1.212rem 3.5rem var(--padding-15xl);
+  padding: 1.212rem var(--padding-37xl) var(--padding-15xl);
   row-gap: 20px;
   max-width: 100%;
   flex-shrink: 0;
@@ -1431,7 +1431,7 @@
     gap: 3.063rem;
   }
   .hero-content-wrapper {
-    gap: 1.875rem;
+    gap: var(--gap-11xl);
   }
   .hero-image {
     gap: 1.063rem;
@@ -1461,7 +1461,7 @@
 }
 @media screen and (max-width: 450px) {
   .img {
-    gap: 1.125rem;
+    gap: var(--gap-lg);
   }
   .heading {
     font-size: 1.688rem;

@@ -26,6 +26,14 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Brygada 1918:wght@400&display=swap"
     />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inika:wght@400&display=swap"
+    />
   </head>
   <body>
     <div class="necklace">
@@ -425,24 +433,24 @@
       var productInfoCard = document.getElementById("productInfoCard");
       if (productInfoCard) {
         productInfoCard.addEventListener("click", function (e) {
-          // Please sync "Single_Product" to the project
+          window.location.href = "./SingleProduct.html";
         });
       }
-      
+
       var earringsText = document.getElementById("earringsText");
       if (earringsText) {
         earringsText.addEventListener("click", function (e) {
-          // Please sync "Earrings" to the project
+          window.location.href = "./Earrings.html";
         });
       }
-      
+
       var braceletsAndRings = document.getElementById("braceletsAndRings");
       if (braceletsAndRings) {
         braceletsAndRings.addEventListener("click", function (e) {
           // Please sync "Bracelet and rings" to the project
         });
       }
-      
+
       var refundPolicyText = document.getElementById("refundPolicyText");
       if (refundPolicyText) {
         refundPolicyText.addEventListener("click", function () {
@@ -452,6 +460,6 @@
           }
         });
       }
-      </script>
+    </script>
   </body>
 </html>

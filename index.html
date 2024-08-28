@@ -26,6 +26,14 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Brygada 1918:wght@400&display=swap"
     />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inika:wght@400&display=swap"
+    />
   </head>
   <body>
     <div class="home-page">
@@ -795,17 +803,17 @@
       var productInfoCard = document.getElementById("productInfoCard");
       if (productInfoCard) {
         productInfoCard.addEventListener("click", function (e) {
-          // Please sync "Single_Product" to the project
+          window.location.href = "./SingleProduct.html";
         });
       }
-      
+
       var productsContainer = document.getElementById("productsContainer");
       if (productsContainer) {
         productsContainer.addEventListener("click", function (e) {
-          // Please sync "Single_Product" to the project
+          window.location.href = "./SingleProduct.html";
         });
       }
-      
+
       var refundPolicyText = document.getElementById("refundPolicyText");
       if (refundPolicyText) {
         refundPolicyText.addEventListener("click", function () {
@@ -815,6 +823,6 @@
           }
         });
       }
-      </script>
+    </script>
   </body>
 </html>
