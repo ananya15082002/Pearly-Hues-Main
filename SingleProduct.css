@@ -247,7 +247,7 @@
   background-color: var(--background-default-default);
   flex-direction: column;
   justify-content: flex-start;
-  padding: var(--padding-mini) 1.625rem 2.043rem var(--padding-9xl);
+  padding: var(--padding-mini) var(--padding-7xl) 2.043rem var(--padding-9xl);
   gap: 0.868rem;
   min-width: 24.063rem;
   z-index: 1;
@@ -480,7 +480,7 @@
   align-self: stretch;
   flex-direction: row;
   justify-content: flex-end;
-  padding: 0 var(--padding-11xl) var(--padding-xl) 1.937rem;
+  padding: 0 var(--padding-11xl) var(--padding-xl) var(--padding-12xl);
   box-sizing: border-box;
   flex-shrink: 0;
   text-align: center;
@@ -654,7 +654,7 @@
   align-self: stretch;
   flex-direction: row;
   align-items: flex-start;
-  padding: 0 0 0 1.187rem;
+  padding: 0 0 0 var(--padding-lgi);
 }
 .follow-us-container,
 .policy-items,

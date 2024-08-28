@@ -530,7 +530,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-end;
-  padding: 0 4.187rem var(--padding-111xl);
+  padding: 0 var(--padding-48xl) var(--padding-111xl);
   box-sizing: border-box;
   max-width: 100%;
   flex-shrink: 0;

@@ -371,7 +371,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: var(--padding-19xl) 0.25rem;
+  padding: var(--padding-19xl) var(--padding-9xs);
   box-sizing: border-box;
   z-index: 3;
 }
